@@ -1,6 +1,6 @@
 # Smart Folders
 
-A better folder organization system.
+A smarter folder organization system.
 
 Hierarchy.zip contains three nested folders:
 - "Inbox" is for active files, downloads, & shortcuts.
