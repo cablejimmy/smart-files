@@ -1,4 +1,4 @@
-# Smart Files
+# Smart Folders
 
 A better folder orginization system.
 
