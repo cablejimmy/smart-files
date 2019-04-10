@@ -1,3 +1,3 @@
 # Smart Files
 
-A better folder hierarchy for organizing your files.
+A better folder orginization system.
